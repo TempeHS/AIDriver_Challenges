@@ -1,6 +1,6 @@
 /***********************************************************************
 
-A low code 2 wheel robot library designed by Ben Jones @ Tempe High School
+A low code 2 wheel robot library designed and written by Ben Jones @ Tempe High School
 Licenses:
 Code is GNUGPL licensed: https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/Ardunio_2Wheel_Robot_Boilerplate/myAIDriver/LICENSE
 Content is Creative Commons licensed: https://github.com/TempeHS/TempeHS_Ardunio_Boilerplate/blob/main/LICENSE
