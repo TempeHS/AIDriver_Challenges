@@ -28,6 +28,11 @@ While (true) {
   mrJonesDriving->driveForward(200,200);
 }
 
+for (int i = 0; i < 125; i = i+5) {
+  mrJonesDriving->driveForward(i,i);
+  delay(150);
+} 
+
 Testing code:
 #include "AIDriver.h"
 
