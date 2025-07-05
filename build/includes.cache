@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\benpa\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\benpa\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\benpa\\OneDrive\\Documents\\GitHub\\AIDriver_Challenges\\build\\sketch\\1.testDebug.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\benpa\\OneDrive\\Documents\\GitHub\\AIDriver_Challenges\\build\\sketch\\AIDriver.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\benpa\\OneDrive\\Documents\\GitHub\\AIDriver_Challenges\\build\\sketch\\L298N.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
