@@ -10,7 +10,7 @@
     "*.md": "vscode.markdown.preview.editor"
   },
   "C_Cpp.formatting": "clangFormat",
-  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorTheme": "Dark+",
   "workbench.iconTheme": "icons",
   "C_Cpp.updateChannel": "Insiders",
   "C_Cpp.intelliSenseEngine": "Default",
@@ -31,5 +31,5 @@
     "css": false,
     "SQL": false
   },
-  "chat.agent.enabled": false
+  "chat.agent.enabled": true
 }
