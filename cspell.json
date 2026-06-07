@@ -1,0 +1,14 @@
+{
+  "version": "0.2",
+  "language": "en,en-GB",
+  "words": [
+    "AIDRIVER",
+    "Ardunio",
+    "GNUGPL",
+    "Legge",
+    "Lombardo",
+    "preproc",
+    "Simoes"
+  ],
+  "ignorePaths": [".git/**", "build/**", "**/*.eep", "**/*.d", "**/preproc/**"]
+}
